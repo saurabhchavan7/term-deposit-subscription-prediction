@@ -63,16 +63,19 @@ In the competitive banking industry, effective marketing strategies are crucial 
 
 
 ### Step 1: Clone the repository
-'''sh
+
+```sh
 git clone https://github.com/your-username/bank-marketing-campaign.git
-'''
+```
 
 ### Step 2:  Navigate to the project directory
-'''sh
+
+```sh
 cd bank-marketing-campaign
-'''
+```
 
 ### Step 3: Install the required dependencies
-'''sh
+
+```sh
 pip install -r requirements.txt
-'''
+```
