@@ -65,13 +65,13 @@ In the competitive banking industry, effective marketing strategies are crucial 
 ### Step 1: Clone the repository
 
 ```sh
-git clone https://github.com/your-username/bank-marketing-campaign.git
+git clone https://github.com/saurabhchavan7/term-deposit-subscription-prediction.git
 ```
 
 ### Step 2:  Navigate to the project directory
 
 ```sh
-cd bank-marketing-campaign
+cd term-deposit-subscription-prediction
 ```
 
 ### Step 3: Install the required dependencies
