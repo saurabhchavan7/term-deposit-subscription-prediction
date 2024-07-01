@@ -61,28 +61,6 @@ In the competitive banking industry, effective marketing strategies are crucial 
    - Step 2: Slice the Data Based on Top Predicted Customers from the GBM Model Output
    - Step 3: Prioritize by Call Duration
 
-## Repository Structure
-
-├── data
-│   ├── bank-additional-full.csv
-├── notebooks
-│   ├── 01_Data_Exploration.ipynb
-│   ├── 02_Data_Preparation.ipynb
-│   ├── 03_Encoding_Categorical_Variables.ipynb
-│   ├── 04_Train_Test_Split.ipynb
-│   ├── 05_Model_Building.ipynb
-│   ├── 06_Model_Evaluation.ipynb
-│   ├── 07_Marketing_Campaign_Effectiveness.ipynb
-├── src
-│   ├── data_exploration.py
-│   ├── data_preparation.py
-│   ├── encoding.py
-│   ├── model_building.py
-│   ├── model_evaluation.py
-│   ├── marketing_effectiveness.py
-├── README.md
-├── requirements.txt
-└── LICENSE
 
 ### Step 1: Clone the repository
 
